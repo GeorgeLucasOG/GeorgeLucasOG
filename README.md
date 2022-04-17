@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeLucasOG
+- 👋 Hi, I’m @GeorgeLucasOG, Science Computer, expert in hardware and nets in career transition to the market of software development ventures developed remotely from Marajó.
 - 👀 I’m interested in development web, desktop, Nets, netwoks, hardware, eletronics
 - 🌱 I’m currently learning development web (HTML5, CSS3, JQuery, Bootdtrap, PHP)
 - 💞️ I am looking to collaborate with the creative and technological economy of the Amazon region, especially with the region of Marajo Island
