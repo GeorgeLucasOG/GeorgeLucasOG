@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeLucasOG, Science Computer, expert in hardware and nets in career transition to the market of software development ventures developed remotely from Marajó.
+- 👋 I'm husband of Larissa and dad of 2 sons, Olavo and Sophia, I love baskketbol, business and computer. I'm Scienced Computer since 2015 in amazônia, but worked how technical Hardware Computer all life, I would want of to work how programmer remote.
 - 👀 I’m interested in development web, desktop, Nets, hardware, eletronics
 - 🌱 I’m currently learning development web (HTML5, CSS3, JQuery, Bootstrap, PHP,Python)
 - 💞️ I am looking to collaborate with the creative and technological economy of the Amazon region, especially with the region of Marajo Island
